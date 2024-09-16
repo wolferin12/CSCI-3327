@@ -65,4 +65,5 @@ int main()
     //function call with array of char and num as parameter
     printf("%s",duplicateString(ch,num));
     return 0;
+    //Hello this is Erin
 }
